@@ -1,0 +1,24 @@
+{
+	"database_ddl": {
+		"drivername": "mssql+pymssql",
+		"username": "",
+		"password": "",
+		"host": "",
+		"port": "1433",
+		"database": "cni-tweets"
+	},
+	"database_dml": {
+		"drivername": "mssql+pymssql",
+		"username": "",
+		"password": "",
+		"host": "",
+		"port": "",
+		"database": "cni-tweets"
+	},
+	"twitter-keys": {
+		"api_key": "",
+		"api_secret_key": "",
+		"access_token": "",
+		"access_token_secret": ""
+	}
+}
